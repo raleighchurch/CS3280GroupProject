@@ -7,6 +7,18 @@
         mc:Ignorable="d"
         Title="wndItems" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="216*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnAddItem" Content="Add Item" HorizontalAlignment="Left" Margin="10,276,0,0" VerticalAlignment="Top" Width="65" Grid.Row="1"/>
+        <Button x:Name="btnEditItem" Content="Edit Item" HorizontalAlignment="Left" Margin="80,276,0,0" VerticalAlignment="Top" Width="65" Grid.Row="1"/>
+        <Button x:Name="btnDeleteItem" Content="Delete Item" HorizontalAlignment="Left" Margin="150,276,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Button x:Name="btnMainMenu" Content="Main Menu" HorizontalAlignment="Left" Margin="725,8,0,0" VerticalAlignment="Top" Width="65" Grid.Row="1"/>
+        <Label x:Name="lblItemCode" Content="Item Code: " HorizontalAlignment="Left" Margin="516,76,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label x:Name="lblItemCost" Content="Item Cost: " HorizontalAlignment="Left" Margin="520,102,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label x:Name="lblItemDescription" Content="Description: " HorizontalAlignment="Left" Margin="511,128,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,10,377,161" Grid.Row="1"/>
+
     </Grid>
 </Window>
