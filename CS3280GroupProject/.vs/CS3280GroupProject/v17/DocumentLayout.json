@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E9385C-C93E-4BAC-AA0A-84F3D9922596}|CS3280GroupProject\\CS3280GroupProject.csproj|c:\\users\\raleighchurch\\source\\repos\\cs3280groupproject\\cs3280groupproject\\cs3280groupproject\\items\\wnditems.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E9385C-C93E-4BAC-AA0A-84F3D9922596}|CS3280GroupProject\\CS3280GroupProject.csproj|solutionrelative:cs3280groupproject\\items\\wnditems.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E9385C-C93E-4BAC-AA0A-84F3D9922596}|CS3280GroupProject\\CS3280GroupProject.csproj|c:\\users\\raleighchurch\\source\\repos\\cs3280groupproject\\cs3280groupproject\\cs3280groupproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67E9385C-C93E-4BAC-AA0A-84F3D9922596}|CS3280GroupProject\\CS3280GroupProject.csproj|solutionrelative:cs3280groupproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E9385C-C93E-4BAC-AA0A-84F3D9922596}|CS3280GroupProject\\CS3280GroupProject.csproj|c:\\users\\raleighchurch\\source\\repos\\cs3280groupproject\\cs3280groupproject\\cs3280groupproject\\items\\wnditems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{67E9385C-C93E-4BAC-AA0A-84F3D9922596}|CS3280GroupProject\\CS3280GroupProject.csproj|solutionrelative:cs3280groupproject\\items\\wnditems.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,41 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\App.xaml",
+              "RelativeDocumentMoniker": "CS3280GroupProject\\App.xaml",
+              "ToolTip": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\App.xaml",
+              "RelativeToolTip": "CS3280GroupProject\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T18:17:08.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wndItems.xaml",
+              "DocumentMoniker": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\Items\\wndItems.xaml",
+              "RelativeDocumentMoniker": "CS3280GroupProject\\Items\\wndItems.xaml",
+              "ToolTip": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\Items\\wndItems.xaml",
+              "RelativeToolTip": "CS3280GroupProject\\Items\\wndItems.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T17:51:02.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "wndItems.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\Items\\wndItems.xaml.cs",
+              "RelativeDocumentMoniker": "CS3280GroupProject\\Items\\wndItems.xaml.cs",
+              "ToolTip": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\Items\\wndItems.xaml.cs",
+              "RelativeToolTip": "CS3280GroupProject\\Items\\wndItems.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwBcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:16:32.046Z",
+              "EditorCaption": ""
             }
           ]
         }

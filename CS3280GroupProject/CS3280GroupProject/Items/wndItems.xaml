@@ -19,6 +19,7 @@
         <Label x:Name="lblItemCost" Content="Item Cost: " HorizontalAlignment="Left" Margin="520,102,0,0" VerticalAlignment="Top" Grid.Row="1"/>
         <Label x:Name="lblItemDescription" Content="Description: " HorizontalAlignment="Left" Margin="511,128,0,0" VerticalAlignment="Top" Grid.Row="1"/>
         <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,10,377,161" Grid.Row="1"/>
+        <Button x:Name="btnSaveItem" Content="Save Item" HorizontalAlignment="Left" Margin="220,276,0,0" VerticalAlignment="Top" Grid.Row="1" Width="65"/>
 
     </Grid>
 </Window>

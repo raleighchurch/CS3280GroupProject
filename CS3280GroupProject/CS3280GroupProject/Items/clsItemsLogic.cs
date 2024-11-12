@@ -8,5 +8,10 @@ namespace CS3280GroupProject.Items
 {
     class clsItemsLogic
     {
+        // GetAllItems // returns List<clsItem>
+        // AddItem(clsItem)
+        // EditItem(clsItem clsOldItem, clsItem clsNewItem)
+        // DeleteItem(clsItem clsItemToDelete)
+        // IsItemOnInvoice(clsItem)
     }
 }

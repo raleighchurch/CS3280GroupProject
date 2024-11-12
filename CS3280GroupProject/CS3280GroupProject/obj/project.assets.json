@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raleighchurch\\Source\\Repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
+      "projectUniqueName": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
       "projectName": "CS3280GroupProject",
-      "projectPath": "C:\\Users\\raleighchurch\\Source\\Repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
+      "projectPath": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
       "packagesPath": "C:\\Users\\raleighchurch\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\raleighchurch\\Source\\Repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\obj\\",
       "projectStyle": "PackageReference",
