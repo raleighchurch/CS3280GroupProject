@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/NaDc5u5JfU=",
+  "dgSpecHash": "fMIcTML6ivI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\raleighchurch\\Source\\Repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
+  "projectFilePath": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\raleighchurch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
     "C:\\Users\\raleighchurch\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
