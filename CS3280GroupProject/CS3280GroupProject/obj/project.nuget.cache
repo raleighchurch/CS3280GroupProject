@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fMIcTML6ivI=",
+  "dgSpecHash": "xW2PaTbE+P0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\raleighchurch\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\raleighchurch\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\raleighchurch\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\raleighchurch\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
-    "C:\\Users\\raleighchurch\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\18018\\source\\repos\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject\\CS3280GroupProject.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
